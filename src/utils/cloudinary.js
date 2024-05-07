@@ -29,3 +29,5 @@ cloudinary.uploader.upload("https://upload.wikimedia.org/wikipedia/commons/a/ae/
   function(error, result) {console.log(result); 
 
   });
+
+  export { uploadOnCloudinary }
