@@ -1,1 +1,1 @@
-export const DB_NAME = "ProPlay"
+export const DB_NAME = "ProPlay";
